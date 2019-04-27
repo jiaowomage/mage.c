@@ -1,0 +1,5 @@
+# mage.c
+
+//test.
+
+//nothing
